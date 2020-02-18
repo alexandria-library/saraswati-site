@@ -37,4 +37,5 @@ Make a pull request and add an RFC here for the future. (and a PR for existing f
 ## TODO
 lol, like, everything yo.
 
-A CNAME as well so I can actually use the `Saraswati.js.org` website under that domain.
+* Rename all `alexandria` to `saraswati`
+* A CNAME as well so I can actually use the `Saraswati.js.org` website under that domain.
